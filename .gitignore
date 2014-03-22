@@ -43,3 +43,10 @@ src/autom4te.cache
 
 regressions/*.lsp
 regressions/eformat-tests/*.txt
+
+# gtags etags cscope
+cscope.*
+GPATH  
+GRTAGS  
+GTAGS
+TAGS
